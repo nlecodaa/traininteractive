@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indian Railway Stations Map - Bihar, UP & Delhi</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <div class="sidebar">
+            <div class="sidebar-header">
+                <h1>Railway Stations</h1>
+                <p>Bihar, Uttar Pradesh & Delhi</p>
+            </div>
+
+            <!-- Search Bar -->
+            <div class="search-section">
+                <div class="form-group">
+                    <label class="form-label" for="search">Search Stations</label>
+                    <input type="text" id="search" class="form-control" placeholder="Enter station name or code...">
+                </div>
+            </div>
+
+            <!-- State Filters -->
+            <div class="filter-section">
+                <h3>Filter by State</h3>
+                <div class="checkbox-group">
+                    <label class="checkbox-label">
+                        <input type="checkbox" id="filter-bihar" checked>
+                        <span class="checkmark bihar"></span>
+                        Bihar (<span id="bihar-count">0</span>)
+                    </label>
+                    <label class="checkbox-label">
+                        <input type="checkbox" id="filter-up" checked>
+                        <span class="checkmark up"></span>
+                        Uttar Pradesh (<span id="up-count">0</span>)
+                    </label>
+                    <label class="checkbox-label">
+                        <input type="checkbox" id="filter-delhi" checked>
+                        <span class="checkmark delhi"></span>
+                        Delhi (<span id="delhi-count">0</span>)
+                    </label>
+                </div>
+            </div>
+
+            <!-- Statistics -->
+            <div class="stats-section">
+                <h3>Statistics</h3>
+                <div class="stat-cards">
+                    <div class="stat-card bihar">
+                        <div class="stat-number" id="bihar-total">0</div>
+                        <div class="stat-label">Bihar Stations</div>
+                    </div>
+                    <div class="stat-card up">
+                        <div class="stat-number" id="up-total">0</div>
+                        <div class="stat-label">UP Stations</div>
+                    </div>
+                    <div class="stat-card delhi">
+                        <div class="stat-number" id="delhi-total">0</div>
+                        <div class="stat-label">Delhi Stations</div>
+                    </div>
+                </div>
+                <div class="total-stat">
+                    <strong>Total: <span id="total-stations">0</span> Stations</strong>
+                </div>
+            </div>
+
+            <!-- Legend -->
+            <div class="legend-section">
+                <h3>Legend</h3>
+                <div class="legend-items">
+                    <div class="legend-item">
+                        <div class="legend-color bihar"></div>
+                        <span>Bihar</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-color up"></div>
+                        <span>Uttar Pradesh</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-color delhi"></div>
+                        <span>Delhi</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Map Container -->
+        <div class="map-container">
+            <div id="map"></div>
+        </div>
+
+        <!-- Station Details Modal -->
+        <div id="station-modal" class="modal hidden">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2 id="modal-title">Station Details</h2>
+                    <button id="modal-close" class="modal-close">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <div class="station-info">
+                        <div class="info-row">
+                            <span class="info-label">Station Code:</span>
+                            <span id="modal-code" class="info-value"></span>
+                        </div>
+                        <div class="info-row">
+                            <span class="info-label">City:</span>
+                            <span id="modal-city" class="info-value"></span>
+                        </div>
+                        <div class="info-row">
+                            <span class="info-label">State:</span>
+                            <span id="modal-state" class="info-value"></span>
+                        </div>
+                        <div class="info-row">
+                            <span class="info-label">Coordinates:</span>
+                            <span id="modal-coordinates" class="info-value"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

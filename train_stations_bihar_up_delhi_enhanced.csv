@@ -1,0 +1,144 @@
+name,code,state,city,latitude,longitude
+Patna Junction,PNBE,Bihar,Patna,25.5941,85.1376
+Barauni Junction,BJU,Bihar,Begusarai,25.4814,86.1337
+Samastipur Junction,SPJ,Bihar,Samastipur,25.8649,85.7818
+Gaya Junction,GAYA,Bihar,Gaya,24.7914,85.0002
+Kiul Junction,KIUL,Bihar,Lakhisarai,25.0382,87.0053
+Chhapra Junction,CPR,Bihar,Chhapra,25.7781,84.7278
+Muzaffarpur Junction,MFP,Bihar,Muzaffarpur,26.1209,85.3647
+Katihar Junction,KIR,Bihar,Katihar,25.5394,87.5761
+Hajipur Junction,HJP,Bihar,Hajipur,25.6892,85.2107
+Mokama Junction,MKA,Bihar,Mokama,25.3959,85.9168
+Bakhtiyarpur Junction,BKP,Bihar,Bakhtiarpur,25.4613,85.5311
+Ara Junction,ARA,Bihar,Ara,25.5564,84.6678
+Danapur,DNR,Bihar,Danapur,25.6303,85.0464
+Buxar,BXR,Bihar,Buxar,25.5647,83.9784
+Jhajha,JAJ,Bihar,Jhajha,24.771,86.3781
+Khagaria Junction,KGG,Bihar,Khagaria,25.5018,86.4785
+Sonpur Junction,SEE,Bihar,Sonepur,25.6959,85.1782
+Darbhanga Junction,DBG,Bihar,Darbhanga,26.1542,85.8918
+Rajendra Nagar Terminal,RJPB,Bihar,Patna,25.6093,85.1025
+Siwan Junction,SV,Bihar,Siwan,26.2183,84.3631
+Barsoi Junction,BOE,Bihar,Barsoi,25.4567,87.9012
+Jamalpur Junction,JMP,Bihar,Jamalpur,25.3122,86.4893
+Sasaram Junction,SSM,Bihar,Sasaram,24.9518,84.0229
+Fatuha Junction,FUT,Bihar,Fatuha,25.5031,85.3156
+Dehri On Sone,DOS,Bihar,Dehri,24.9002,84.1828
+Begusarai,BGS,Bihar,Begusarai,25.4181,86.1274
+Bhagalpur Junction,BGP,Bihar,Bhagalpur,25.2425,87.0081
+Barh,BARH,Bihar,Barh,25.4831,85.707
+Naugachia,NNA,Bihar,Naugachhia,25.3906,87.0979
+Barhiya,BRY,Bihar,Barahiya,25.2876,86.5193
+Mansi Junction,MNE,Bihar,Mansi,25.9938,86.6229
+Narkatiaganj Junction,NKE,Bihar,Narkatiaganj,26.7742,84.4281
+Sagauli Junction,SGL,Bihar,Sugauli,26.7965,84.7476
+Kanpur Central,CNB,Uttar Pradesh,Kanpur,26.4499,80.3319
+Prayagraj Junction,PRYJ,Uttar Pradesh,Prayagraj,25.4358,81.8463
+Gorakhpur Junction,GKP,Uttar Pradesh,Gorakhpur,26.7598,83.3818
+Aligarh Junction,ALJN,Uttar Pradesh,Aligarh,27.8896,78.0746
+Bareilly Junction,BE,Uttar Pradesh,Bareilly,28.367,79.4304
+Moradabad Junction,MB,Uttar Pradesh,Moradabad,28.8386,78.7733
+Varanasi Junction,BSB,Uttar Pradesh,Varanasi,25.3176,82.9739
+Agra Cantt,AGC,Uttar Pradesh,Agra,27.1767,78.0081
+Lucknow Junction,LJN,Uttar Pradesh,Lucknow,26.8467,80.9462
+Ghaziabad Junction,GZB,Uttar Pradesh,Ghaziabad,28.6692,77.4538
+Mathura Junction,MTJ,Uttar Pradesh,Mathura,27.4924,77.6737
+Firozabad,FZD,Uttar Pradesh,Firozabad,27.1592,78.3957
+Tundla Junction,TDL,Uttar Pradesh,Tundla,27.2004,78.2754
+Etawah Junction,ETW,Uttar Pradesh,Etawah,26.7606,79.0193
+Faizabad Junction,FD,Uttar Pradesh,Ayodhya,26.7751,82.149
+Jhansi Junction,JHS,Uttar Pradesh,Jhansi,25.4484,78.5685
+Meerut City,MTC,Uttar Pradesh,Meerut,28.9845,77.7064
+Saharanpur,SRE,Uttar Pradesh,Saharanpur,29.968,77.5552
+Muzaffarnagar,MOZ,Uttar Pradesh,Muzaffarnagar,29.4727,77.7085
+Rampur,RMU,Uttar Pradesh,Rampur,28.8156,79.0213
+Shahjahanpur,SPN,Uttar Pradesh,Shahjahanpur,27.88,79.91
+Hardoi,HRI,Uttar Pradesh,Hardoi,27.3969,80.1314
+Sitapur,STP,Uttar Pradesh,Sitapur,27.5677,80.6947
+Bahraich,BRK,Uttar Pradesh,Bahraich,27.5741,81.5939
+Balrampur,BLP,Uttar Pradesh,Balrampur,27.4307,82.1808
+Banda Junction,BNDA,Uttar Pradesh,Banda,25.4751,80.3347
+Barabanki Junction,BBK,Uttar Pradesh,Barabanki,26.9224,81.2047
+Basti,BST,Uttar Pradesh,Basti,26.8023,82.7367
+Deoria Sadar,DEOS,Uttar Pradesh,Deoria,26.5024,83.779
+Gonda Junction,GD,Uttar Pradesh,Gonda,27.1336,81.9623
+Khalilabad,KLD,Uttar Pradesh,Khalilabad,26.7704,83.0707
+Padrauna,PDNA,Uttar Pradesh,Padrauna,26.9029,83.9819
+Sultanpur Junction,SLN,Uttar Pradesh,Sultanpur,26.2557,82.0739
+New Delhi Railway Station,NDLS,Delhi,New Delhi,28.642,77.2207
+Anand Vihar Terminal,ANVT,Delhi,Delhi,28.6508,77.3152
+Old Delhi Railway Station,DLI,Delhi,Delhi,28.6641,77.2273
+Hazrat Nizamuddin,NZM,Delhi,New Delhi,28.5881,77.2507
+Sarai Rohilla,DEE,Delhi,Delhi,28.6758,77.1874
+Delhi Cantt,DEC,Delhi,Delhi,28.5797,77.1345
+Delhi Shahdara,DSA,Delhi,Delhi,28.6725,77.2933
+Subzi Mandi,SZM,Delhi,Delhi,28.7041,77.2202
+Tilak Bridge,TKJ,Delhi,Delhi,28.6255,77.249
+Okhla,OKA,Delhi,Delhi,28.5356,77.2722
+Tughlakabad,TKD,Delhi,Delhi,28.5074,77.2793
+Bachwara Junction,BCA,Bihar,Bachwara,25.472,85.85
+Dholi,DOL,Bihar,Dholi,26.1142,85.642
+Goraul,GRL,Bihar,Goraul,25.758,84.896
+Karhagola Road,CRR,Bihar,Karhagola,25.824,85.487
+Kursela,KUE,Bihar,Kursela,25.342,86.875
+Lakhminia,LKN,Bihar,Lakhminia,25.673,85.215
+Mahnar Road,MNO,Bihar,Mahnar,25.742,86.563
+Narayanpur Anant,NNR,Bihar,Narayanpur,25.897,85.754
+Raxaul Junction,RXL,Bihar,Raxaul,26.9824,84.8519
+Sitamarhi Junction,SMI,Bihar,Sitamarhi,26.591,85.483
+Hasanpur Road,HPO,Bihar,Hasanpur,26.035,85.362
+Janakpur Road,JNR,Bihar,Janakpur Road,26.748,85.924
+Kamtaul,KML,Bihar,Kamtaul,26.012,85.543
+Koparia,KFA,Bihar,Koparia,25.987,85.724
+Motihari,MYE,Bihar,Motihari,26.6521,84.9165
+Purnia Junction,PRNA,Bihar,Purnia,25.7891,87.4753
+Forbesganj,FBG,Bihar,Forbesganj,26.3023,87.2664
+Araria,ARR,Bihar,Araria,26.1521,87.519
+Bagaha,BUG,Bihar,Bagaha,27.099,84.089
+Bettiah,BTH,Bihar,Bettiah,26.8,84.503
+Kathgodam,KGM,Uttar Pradesh,Kathgodam,29.2118,79.5115
+Rudrapur City,RPC,Uttar Pradesh,Rudrapur,28.9845,79.409
+Lalkuan Junction,LKU,Uttar Pradesh,Lalkuan,28.844,79.4456
+Haldwani,HDW,Uttar Pradesh,Haldwani,29.2183,79.513
+Kasganj Junction,KSJ,Uttar Pradesh,Kasganj,27.8067,78.6446
+Hathras Junction,HTC,Uttar Pradesh,Hathras,27.595,78.0467
+Farrukhabad,FBD,Uttar Pradesh,Farrukhabad,27.395,79.58
+Kannauj,CNJ,Uttar Pradesh,Kannauj,27.052,79.919
+Kanpur Anwarganj,CPA,Uttar Pradesh,Kanpur,26.478,80.3319
+Unchahar Junction,UCR,Uttar Pradesh,Unchahar,26.347,80.459
+Rae Bareli Junction,RBL,Uttar Pradesh,Rae Bareli,26.223,81.233
+Pratapgarh Junction,PBH,Uttar Pradesh,Pratapgarh,25.8969,81.9428
+Janghai Junction,JGJ,Uttar Pradesh,Janghai,26.2642,82.6739
+Zamania,ZNA,Uttar Pradesh,Zamania,25.419,83.56
+Gyanpur Road,GYR,Uttar Pradesh,Gyanpur,25.334,82.971
+Mau Junction,MAU,Uttar Pradesh,Mau,25.9417,83.5611
+Azamgarh,AMH,Uttar Pradesh,Azamgarh,26.0685,83.1836
+Ballia,BUI,Uttar Pradesh,Ballia,25.7661,84.1499
+Ghazipur City,GCT,Uttar Pradesh,Ghazipur,25.5881,83.578
+Chhapra Kacheri,CPK,Uttar Pradesh,Chhapra,25.784,84.745
+Pilibhit Junction,PBE,Uttar Pradesh,Pilibhit,28.63,79.804
+Mailani Junction,MLN,Uttar Pradesh,Mailani,28.294,80.316
+Lakhimpur,LMP,Uttar Pradesh,Lakhimpur Kheri,27.944,80.778
+Khurja Junction,KRJ,Uttar Pradesh,Khurja,28.2516,77.857
+Bulandshahr,BSC,Uttar Pradesh,Bulandshahr,28.407,77.8498
+Hapur,HPU,Uttar Pradesh,Hapur,28.729,77.776
+Bijwasan,BJW,Delhi,Delhi,28.507,77.082
+Patel Nagar,PTNR,Delhi,Delhi,28.659,77.173
+Kirti Nagar,KRTI,Delhi,Delhi,28.652,77.143
+Naraina Vihar,NRVR,Delhi,Delhi,28.622,77.128
+Delhi Indrapuri,DINR,Delhi,Delhi,28.684,77.112
+Dayabasti,DYBH,Delhi,Delhi,28.671,77.214
+Shivaji Bridge,CSB,Delhi,Delhi,28.639,77.243
+Pragati Maidan,PRGD,Delhi,Delhi,28.615,77.246
+Lodhi Colony,LDCY,Delhi,Delhi,28.592,77.236
+Chanakyapuri,CPUR,Delhi,Delhi,28.597,77.184
+Sarojini Nagar,SOJ,Delhi,Delhi,28.575,77.202
+Delhi Safdarjung,DSFJ,Delhi,Delhi,28.578,77.208
+Sewa Nagar,SWNR,Delhi,Delhi,28.585,77.225
+Barar Square,BRSQ,Delhi,Delhi,28.569,77.258
+Delhi Kishanganj,DKJ,Delhi,Delhi,28.688,77.202
+Adarsh Nagar Delhi,ANVR,Delhi,Delhi,28.713,77.185
+Azadpur,AZP,Delhi,Delhi,28.708,77.179
+Badli,BHD,Delhi,Delhi,28.715,77.21
+Shakur Basti,SSB,Delhi,Delhi,28.679,77.164
+Narela,NRL,Delhi,Delhi,28.851,77.095
